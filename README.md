@@ -2,6 +2,10 @@
 
 A chronometer app 
 
+# tutorial
+
+https://www.mfrashad.com/flutter-stopwatch-codelab/#0
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
